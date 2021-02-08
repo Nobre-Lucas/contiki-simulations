@@ -1,6 +1,6 @@
 #!/bin/bash
 
-java -Xmx4096m -jar ss1s2_03.jar &
+java -Xmx4096m -jar ss1s2_00.jar &
 
 sleep 20
 
